@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaitunpatel&label=Profile%20views&color=0e75b6&style=flat" alt="jaitunpatel" /> </p>
 
-- 🔭 I’m currently working on **OpenAlex-API**
+- 🔭 I’m currently working on **OpenAlex**
 
 - 🌱 I’m currently learning **Software Engineering and Networks and Security**
 
