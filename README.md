@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaitunpatel&label=Profile%20views&color=0e75b6&style=flat" alt="jaitunpatel" /> </p>
 
-- 🔭 I’m currently working on **OpenAlex**
-
 - 🌱 I’m currently learning **Software Engineering and Networks and Security**
 
 - 💬 Ask me about **React, TypeScript, Java, Python**
 
-- 📫 How to reach me **pateljj@myumanitoba.ca**
+- 📫 How to reach me **jaitunpatel2001@gmail.com**
 
 - ⚡ Fun fact **Sometimes I think my computer science skills are so advanced that even my coffee maker asks for coding help when it gets stuck in a 'brew-loop'!**
 
